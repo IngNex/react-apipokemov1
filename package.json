@@ -1,7 +1,7 @@
 {
   "name": "react-pokeapi-v1",
   "private": true,
-  "homepage": "http://ingnex.github.io/react-apipokemov1",
+  "homepage": "https://ingnex.github.io/react-apipokemov1/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
