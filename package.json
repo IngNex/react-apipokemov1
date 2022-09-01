@@ -1,12 +1,9 @@
 {
   "name": "react-pokeapi-v1",
   "private": true,
-  "homepage": "https://ingnex.github.io/react-apipokemov1/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
