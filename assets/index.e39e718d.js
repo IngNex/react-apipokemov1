@@ -65,7 +65,7 @@ Error generating stack: `+o.message+`
     img{
         width: 100%;
     }
-`,Cm="/assets/logo.981466d5.png",xm=yt.div`
+`,Cm="/react-apipokemov1/assets/logo.981466d5.png",xm=yt.div`
     background: var(--color-secondary);
     border: 0.3rem;
     box-shadow: 0 0 1rem 0 rgba(255,255,255, .1);
